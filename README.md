@@ -1,12 +1,12 @@
 # CostcoPhotoCenterScraper
 
-Tapermonkey script to download your photos automatically from Costco Photo Center.
+Tampermonkey script to download your photos automatically from Costco Photo Center.
 
 ## Install
 
 [Click here to install this extension.][install]
 
-This will open the user script in your browser, which prompts Tapermonkey to confirm the installation.
+This will open the user script in your browser, which prompts Tampermonkey to confirm the installation.
 
 [install]: https://github.com/Chris-Johnston/CostcoPhotoCenterScraper/raw/master/costco_scraper.user.js
 
